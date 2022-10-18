@@ -24,7 +24,7 @@ const hariini = moment.tz('Asia/Jakarta').format('dddd, DD MMMM YYYY')
 const barat = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-const ninstagram = ('© RyuxD\nInstagram :\nhttps:///enginerexe?igshid=YmMyMTA2M2Y=')  //ubah di config biar ngk emror
+const nyoutube = ('© ZxCode\nYoutube :\nhttps://youtube.com/RyuXPloit')  //ubah di config biar ngk emror
 const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 
